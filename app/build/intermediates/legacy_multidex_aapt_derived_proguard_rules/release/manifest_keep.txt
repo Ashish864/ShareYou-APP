@@ -1,0 +1,1 @@
+-keep class com.justemazine.shareyou.base.App { <init>(); }

@@ -1,0 +1,7 @@
+#Wed Aug 03 02:16:16 PDT 2022
+base.1=C\:\\Users\\ak916\\Desktop\\Turbo Share ( Ads Free )\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\ak916\\Desktop\\Turbo Share ( Ads Free )\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
